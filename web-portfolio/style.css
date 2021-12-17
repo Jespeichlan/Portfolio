@@ -23,10 +23,17 @@ h2 {
   text-align: center; 
 }
 
+h3{
+  color: #293241;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+}
+ 
 p {
   color: #3d5a80;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
+  font-size: 30;
 }
 
 img {
